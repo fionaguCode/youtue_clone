@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1022" alt="Screen Shot 2023-11-25 at 03 38 05" src="https://github.com/fionaguCode/youtue_clone/assets/42789126/e5f89583-8675-4c48-b8ca-7d2634c81303">
+
 ## Available Scripts
 
 In the project directory, you can run:
