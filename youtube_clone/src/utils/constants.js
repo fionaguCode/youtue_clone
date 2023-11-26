@@ -20,15 +20,31 @@ export const categories = [
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
-  { name: 'Gaming', icon: <SportsEsportsIcon />, },
+ // { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
-  { name: 'Sport', icon: <FitnessCenterIcon />, },
+ // { name: 'Sport', icon: <FitnessCenterIcon />, },
   { name: 'Fashion', icon: <CheckroomIcon />, },
   { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
+export const list = [
+
+ // { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Course', icon: <SchoolIcon />, },
+ // { name: 'Podcast', icon: <GraphicEqIcon />, },
+  { name: 'Art', icon: <OndemandVideoIcon />, },
+  { name: 'Gaming', icon: <SportsEsportsIcon />, },
+ // { name: 'Live', icon: <LiveTvIcon />, },
+  { name: 'Sport', icon: <FitnessCenterIcon />, },
+ // { name: 'Fashion', icon: <CheckroomIcon />, },
+  { name: 'Makeup', icon: <FaceRetouchingNaturalIcon />, },
+ // { name: 'Comedy', icon: <TheaterComedyIcon />, },
+ // { name: 'Gym', icon: <FitnessCenterIcon />, },
+ // { name: 'Crypto', icon: <DeveloperModeIcon />, },
+];
+
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
