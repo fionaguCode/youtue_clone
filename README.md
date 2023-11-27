@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1022" alt="Screen Shot 2023-11-25 at 03 38 05" src="https://github.com/fionaguCode/youtue_clone/assets/42789126/e5f89583-8675-4c48-b8ca-7d2634c81303">
+![image](https://github.com/fionaguCode/youtue_clone/assets/42789126/1e8c57c7-bd6f-4a01-b808-709e6fe72fd2)
+![image](https://github.com/fionaguCode/youtue_clone/assets/42789126/b1c0332c-95b1-41d4-abe8-5b66dd2efb76)
+![image](https://github.com/fionaguCode/youtue_clone/assets/42789126/2cdc626b-7497-4f17-9658-0f6ade555255)
+
+
 
 ## Available Scripts
 
