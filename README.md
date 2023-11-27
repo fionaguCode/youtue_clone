@@ -6,13 +6,13 @@
 `React.js, Material UI, and just a couple of other dependencies.`
 
 ## Key Components:
-`Navbar
- Search Bar
- Feed
- Sidebar
- API Data fetching
- Videos
- Video Details`
+`1.Navbar
+ 2.Search Bar
+ 3.Feed
+ 4.Sidebar
+ 5.API Data fetching
+ 6.Videos
+ 7.Video Details`
 
 
 
