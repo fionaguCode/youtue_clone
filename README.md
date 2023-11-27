@@ -1,6 +1,20 @@
 ## Intro
 
-This project seamlessly integrates React.js and Material UI to deliver a responsive user interface featuring stunning video sections, custom categories, and dedicated video pages. 
+`This project seamlessly integrates React.js and Material UI to deliver a responsive user interface featuring stunning video sections, custom categories, and dedicated video pages. `
+
+## Techniques 
+`React.js, Material UI, and just a couple of other dependencies.`
+
+## Key Components:
+*Navbar*
+*Search Bar*
+*Feed*
+*Sidebar*
+*API Data fetching*
+*Videos*
+*Video Details* 
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
