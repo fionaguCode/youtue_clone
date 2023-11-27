@@ -12,7 +12,8 @@
  4.Sidebar
  5.API Data fetching
  6.Videos
- 7.Video Details`
+ 7.Video Details
+ 8.Categories Bar`
 
 
 
