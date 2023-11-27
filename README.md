@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Intro
+
+This project seamlessly integrates React.js and Material UI to deliver a responsive user interface featuring stunning video sections, custom categories, and dedicated video pages. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
